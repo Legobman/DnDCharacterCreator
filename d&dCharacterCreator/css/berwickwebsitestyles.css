@@ -1,0 +1,76 @@
+/* Style sheet created by: Student's First Name Student's Last Name, Today's Date */
+
+/* Style for body specifies a background color */
+body {
+	background-color: #F7F0D4;
+}
+
+/* Style for the container element */
+#container {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Style for the header element */
+header {
+	font-family: Verdana, Arial, sans-serif;
+	margin-top: 0.2em;
+	background-color: #FCCB1A;
+	color: #110934;
+	padding: 0.5%;
+}
+
+/* Style for the nav element */
+nav {
+	background-color: #FCCB1A;
+	padding: 0.5%;
+}
+
+/* Style for the nav list item elements */
+nav li {
+	display: inline;
+}
+
+/* Style for the nav links element */
+nav li a {
+	color: #110934;
+	padding-left: 2%;
+	padding-right: 2%;
+	text-decoration: none;
+}
+
+/* Style for the main element  */
+main {
+    color: #3214B8;
+	display: block;
+	margin: 1%;
+	padding: 1em;
+	border-radius: 1em;
+	background-color: #FCCB1A;
+	box-shadow: .5em .5em .5em #404040;
+	float: left;
+	width: 95%;
+}
+
+/* Style for the footer element */
+footer {
+    color: #3214B8;
+	font-size: .70em;
+	text-align: center;
+	clear: left;
+}
+/* Style for image element*/
+img{
+    border-radius: 50%
+}
+/* Style for div element*/
+#aboutUs{
+        width: 250px;
+        float: left;
+        border-style: double;
+        border-color: #110934;
+        background-color: #FCCB1A;
+        padding: 20px;
+        margin: 20px;
+    }
